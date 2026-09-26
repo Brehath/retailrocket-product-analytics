@@ -114,21 +114,6 @@ Key recommendations include:
 
 ---
 
-## 6. Experiment Design
-
-An A/B testing framework was proposed to evaluate the effectiveness of the highest-impact product recommendation.
-
-The framework includes:
-
-- Business hypothesis
-- Target audience
-- Success metrics
-- Sample size estimation
-- Minimum Detectable Effect (MDE)
-- Estimated experiment duration
-
----
-
 # Key Findings
 
 - A substantial proportion of users leave the platform without progressing beyond product browsing.
@@ -166,7 +151,6 @@ The framework includes:
 - DuckDB
 - Apache Parquet
 - Python Data Analysis
-- Experimentation & A/B Test Design (Hypothesis Framework)
 - Business Insight Generation
 
 ---
